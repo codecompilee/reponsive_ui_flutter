@@ -1,16 +1,6 @@
-# flutter_widgets
+# Flutter Responsive UI
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Uploading Screenshot 2023-03-28 at 12.06.54 AM.png…]()
+![Uploading Screenshot 2023-03-28 at 12.07.14 AM.png…]()
+<img width="1501" alt="Screenshot 2023-03-28 at 12 07 25 AM" src="https://user-images.githubusercontent.com/119125942/228118318-8614fa42-6e26-4fd7-8ea0-758c3a9ca4dd.png">
